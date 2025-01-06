@@ -14,3 +14,40 @@
     --ifm-color-link: #c99df2; /* Links using light purple */
     --ifm-color-link-hover: #d7b3f5; /* Hover effect for links */
 }
+
+
+/* Add this to your custom.css file */
+
+/* Background color of the footer */
+.footer {
+    background-color: #2c2f33; /* Darker color for better contrast */
+    padding: 20px; /* Adjust spacing */
+    color: #ffffff; /* Ensure text is readable */
+}
+
+/* Styling links inside the footer */
+.footer a {
+    color: #c99df2; /* Match your brand's light purple */
+    text-decoration: none; /* Remove underline */
+    font-weight: 500; /* Slightly bold for visibility */
+}
+
+.footer a:hover {
+    color: #d7b3f5; /* Lighter purple for hover effect */
+    text-decoration: underline; /* Add underline on hover */
+}
+
+/* Footer columns (Docs, Community, More) */
+.footer__links {
+    display: flex; /* Ensure columns are aligned horizontally */
+    justify-content: space-between; /* Add spacing between columns */
+    text-align: left; /* Align text to the left */
+}
+
+/* Adjust text styles for footer copyright */
+.footer__bottom {
+    font-size: 0.85rem; /* Smaller text */
+    color: #b0b0b0; /* Secondary color for less emphasis */
+    text-align: center; /* Center-align copyright text */
+    margin-top: 10px; /* Add spacing */
+}
