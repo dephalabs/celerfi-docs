@@ -47,7 +47,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/dephalabs/xceler-docs/tree/main/',
         },
         blog: false, // Disable the blog feature
         pages: false, // Disable any static pages
