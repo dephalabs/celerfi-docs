@@ -78,6 +78,11 @@ const config = {
           },
         ],
       },
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
       footer: {
         style: 'dark',
         links: [
