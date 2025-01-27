@@ -4,6 +4,11 @@ sidebar_position: 2
 ---
 
 # Getting Started With CelerFi
+> **Summary**
+>
+> Gaining access to CelerFi requires you to join a waitlist and leaderboard. The higher your rank on the board, the more your chances of getting access to the dashboard
+
+
 Getting started with CelerFi follows a unique process designed to reward community participation and ensure smooth onboarding. Follow these steps to join the waitlist and gain access to CelerFi's dashboard.
 
 ## Step 1: Join the Waitlist
